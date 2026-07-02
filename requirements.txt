@@ -1,4 +1,4 @@
 streamlit
-opencv-python
+packages.txt
 numpy
 Pillow
